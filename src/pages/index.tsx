@@ -49,7 +49,7 @@ export default function Page() {
             <br className="inline-block" /> ved
           </>
         }
-        t8="te"
+        t8="te2"
         t9={
           <>
             I&#xb4;m looking for a{" "}
